@@ -30,7 +30,7 @@ header {
 	padding-bottom: 50px;
 	padding-left: 15px;
 	padding-right: 15px;
-	background-image: url(../images/header/1080x1533.jpg);
+	background-image: url(../images/header/header-background-02.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
@@ -201,7 +201,7 @@ div.wrap.gradient {
 	background-color: white;
 	position: relative;
 	width: 95%;
-	background-image: url(../images/header/system.png);
+	background-image: url(../images/header/system.jpg);
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-size: 300px 216px;
@@ -509,7 +509,6 @@ div.container img {
 
 div.system_feature.wrap {
 	display: block;
-	padding-bottom: 50px;
 }
 
 div.system_feature h2 {
