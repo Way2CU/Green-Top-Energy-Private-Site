@@ -30,7 +30,7 @@ header {
 	padding-bottom: 50px;
 	padding-left: 15px;
 	padding-right: 15px;
-	background-image: url(../images/header/header-background-02.jpg);
+	background-image: url(../images/header/1080x1533.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 100% auto;
@@ -46,7 +46,7 @@ header div.content {
 	padding-bottom: 10px;
 	padding-left: 5px;
 	padding-right: 5px;
-	top: 100px;
+	top: 80px;
 	left: 50%;
 	margin-left: -157px;
 	width: 300px;
@@ -59,7 +59,7 @@ header div.content h1 {
 	margin-right: auto;
 	padding-bottom: 20px;
 	color: #294090;
-	font-size: 1.9em;
+	font-size: 1.7em;
 	font-weight: 400;
 	position: relative;
 }
