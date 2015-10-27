@@ -3,8 +3,8 @@ site:
   domain: lp.energyportal.co.il
   subdomain: home
   make_alias: false
-  root: httpdocs
-  username: "sample"
+  root: httpdocs-home
+  username: "energy_manager"
   caracal_branch: develop
   ip_address: 198.251.79.73
   # owner: Some Person
