@@ -72,6 +72,7 @@ function dialog() {
 }
 
 Site.on_load = function() {
+
 	// Initiate dialog
 	dialog();
 	// Setting fixed menu color
@@ -111,6 +112,10 @@ Site.on_load = function() {
             	'event':'leadSent'
             });
 	});
+
+	if (Site.is_mobile())
+		Site.mobile_menu = new Caracal.MobileMenu();
+
 };
 
 
